@@ -20,6 +20,9 @@ import haythem.com.mygrades.R;
 import haythem.com.mygrades.models.CourseModel;
 import haythem.com.mygrades.models.ModuleModel;
 
+/**
+ * Created by Haythem Khiri on 22/04/2016.
+ */
 public class CourseDetailsActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
 
