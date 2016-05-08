@@ -49,6 +49,9 @@ import haythem.com.mygrades.models.CourseModel;
 import haythem.com.mygrades.models.ModuleModel;
 import haythem.com.mygrades.models.QuoteModel;
 
+/**
+ * Created by Haythem Khiri on 22/04/2016.
+ */
 public class CoursesListActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
 
