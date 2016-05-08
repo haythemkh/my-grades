@@ -3,7 +3,7 @@ package haythem.com.mygrades.models;
 import java.util.List;
 
 /**
- * Created by haythem on 18/04/2016.
+ * Created by Haythem Khiri on 22/04/2016.
  */
 public class ModuleModel {
     private String _id;
