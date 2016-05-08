@@ -1,7 +1,7 @@
 package haythem.com.mygrades.models;
 
 /**
- * Created by haythem on 22/04/2016.
+ * Created by Haythem Khiri on 22/04/2016.
  */
 public class QuoteModel {
     private String _id;
