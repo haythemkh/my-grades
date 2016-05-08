@@ -3,7 +3,7 @@ package haythem.com.mygrades.models;
 import android.util.Log;
 
 /**
- * Created by haythem on 18/04/2016.
+ * Created by Haythem Khiri on 22/04/2016.
  */
 public class CourseModel {
     private String _id;
