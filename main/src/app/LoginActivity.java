@@ -39,6 +39,9 @@ import java.util.List;
 
 import haythem.com.mygrades.R;
 
+/**
+ * Created by Haythem Khiri on 22/04/2016.
+ */
 public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<Cursor> {
 
     private UserLoginTask mAuthTask = null;
