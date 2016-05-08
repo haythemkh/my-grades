@@ -1,0 +1,27 @@
+{
+  "name": "my-grades",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main/src/app/LoginActivity.java",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haythemkh/my-grades.git"
+  },
+  "keywords": [
+    "UX", 
+    "UI", 
+    "Best practices",
+    "Java",
+    "Android",
+    "Firebase",
+    "Material design",
+    "FirebaseRecyclerView",
+    "FirebaseListAdapter"
+  ],
+  "author": "Haythem Khiri <haythem.khiri@yahoo.fr>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/haythemkh/my-grades/issues"
+  },
+  "homepage": "https://github.com/haythemkh/my-grades#readme"
+}
