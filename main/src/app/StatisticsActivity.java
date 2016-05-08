@@ -42,6 +42,9 @@ import android.view.View;
 import haythem.com.mygrades.R;
 import haythem.com.mygrades.models.QuoteModel;
 
+/**
+ * Created by Haythem Khiri on 22/04/2016.
+ */
 public class StatisticsActivity extends AppCompatActivity implements OnChartValueSelectedListener {
 
     private PieChart mChart;
